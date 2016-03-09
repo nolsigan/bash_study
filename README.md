@@ -1,1 +1,1 @@
-GIT Repository for studying bash
+#GIT Repository for studying bash
